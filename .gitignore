@@ -1,0 +1,18 @@
+# Секреты
+.env
+
+# Виртуальное окружение uv
+.venv/
+
+# Lock-файл (опционально, для пакета без библиотек необязателен)
+uv.lock
+
+# IDE
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Playwright snapshots
+.playwright-mcp/
