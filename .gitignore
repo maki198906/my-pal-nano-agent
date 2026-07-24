@@ -1,5 +1,6 @@
 # Generated report sources
-nanopal_report.md, nanopal.pdf
+nanopal_report.md
+nanopal.pdf
 
 # Secrets
 .env
